@@ -1,7 +1,5 @@
-# visual-design README
-
-This is the README for your extension "visual-design". After writing up a brief description, we recommend including the following sections.
-
+# Visual Design (visual-design)
+An VS Code Design
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
